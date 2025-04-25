@@ -45,7 +45,7 @@ No installation needed — open the `.ipynb` notebooks and start running code!
 ## 📁 How to Use
 
 1. Open the notebook via Colab:  
-   [🔗 Click here to launch in Colab](https://github.com/Tayyaba-Ramzan/Structured-OOP-Python-Assignments.git)
+   [🔗 Click here to launch in Colab](https://colab.research.google.com/drive/1m6-A4RDk9i43K0q_loOfGTD0Wv_bXzAE?usp=drive_link)
 
 2. Explore and run each code cell sequentially.
 
